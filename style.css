@@ -651,6 +651,7 @@ h3 {
     }
     .mobile-main-content{
         display: flex;
+        width: 100%;
         /* margin-top: 10px; */
     }
     .mobile-main-content{
@@ -661,14 +662,15 @@ h3 {
         width: 100%;
         height: 150px;
     }
+    .mobile-main-content .col-7{
+        margin: 0;
+        padding: 0;
+    }
+
     .mobile-main-content .row{
         margin-top: 2px;
         box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
      }
-    .mobile-main-content .col-8{
-        margin: 0;
-        padding: 0;
-    }
     .vdo-item iframe{
         width: 100%;
         height: 100%;
@@ -682,10 +684,6 @@ h3 {
     .vdo-title h1{
         font-size: 16px;
         font-weight: bold;
-    }
-    .mobile-main-content .col-7{
-        margin: 0;
-        padding: 0;
     }
 
 
