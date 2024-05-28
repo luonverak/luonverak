@@ -37,26 +37,9 @@
     cursor: pointer;
 }
 
-/* .title{
-    width: 60%;
-    height: 80%;
-    padding-left: 5%;
-    background-color: rgb(182, 67, 67);
-    align-items: center;
-    display: flex;
-    font-family: 'Noto Serif', serif;
-}
-.text-show{
-    display: flex;
-    width: 60%;
-    height: 20%;
-    background-color: yellow;
-} */
 .box {
-    /* padding-left: 10%; */
     width: 40%;
     height: 100%;
-    /* background-color: blanchedalmond; */
 }
 
 .title {
@@ -129,9 +112,8 @@
 }
 
 .main-conten {
-    width: 62%;
-    /* background-color: aliceblue; */
-    height: 400px;
+    width: 80%;
+    height: 350px;
     margin: auto;
     display: flex;
     padding: 20px;
