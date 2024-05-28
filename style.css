@@ -348,6 +348,7 @@
     margin-top: 90px;
     border-radius: 10px;
     justify-content: space-between;
+    position: fixed;
 }
 
 .follow-me-1 li {
