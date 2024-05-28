@@ -441,9 +441,9 @@
     /* background-color: antiquewhite; */
 }
 
-.like-me h1 {
+.like-me p {
     color: white;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .flip-card {
