@@ -333,7 +333,6 @@
 }
 
 @keyframes flip {
-
     0%,
     80% {
         transform: rotateY(360deg)
@@ -349,7 +348,6 @@
     border-radius: 10px;
     justify-content: space-between;
     position: sticky;
-    position: fixed;
 }
 
 .follow-me-1 li {
