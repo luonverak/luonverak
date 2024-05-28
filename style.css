@@ -254,21 +254,11 @@
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
-
 }
 .right-content {
     width: 30%;
     height: 100%;
     padding: 10px;
-}
-.video {
-    width: 60%;
-    background-color: rgb(61, 90, 115);
-    height: 550px;
-    margin: auto;
-    display: flex;
-    padding: 20px;
-    justify-content: space-evenly;
 }
 
 .planning {
@@ -283,11 +273,10 @@
 
 .footer {
     width: 100%;
-    height: 250px;
+    height: 200px;
     background-color: black;
     display: flex;
     z-index: 1;
-
 }
 
 .logo-footer {
