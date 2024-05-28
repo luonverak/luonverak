@@ -232,9 +232,9 @@
     /* justify-content: space-between; */
 }
 
-.reading-title h3 {
+.reading-title p {
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 600;
     font-family: 'Noto Serif', serif;
 }
 
