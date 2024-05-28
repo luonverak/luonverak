@@ -580,9 +580,19 @@ h3 {
         width: 100%;
     }
 
+    .course {
+        height: 259px;
+        border-radius: 10px;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
     .carousel-item {
         width: 100%;
         height: 300px;
+    }
+    .list-course{
+        padding: 10px;
     }
 
     .carousel-item img {
