@@ -442,6 +442,7 @@
 }
 
 .like-me p {
+    padding: 10px;
     color: white;
     font-weight: 600;
     font-size: 24px;
