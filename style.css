@@ -575,13 +575,15 @@ h3 {
     }
 
     .left-content {
+        margin: 0px;
+        padding: 0px;
         width: 100%;
     }
 
     .course {
         height: 259px;
         border-radius: 10px;
-        width: 100%;
+        width:49%;
         margin-bottom: 15px;
     }
 
