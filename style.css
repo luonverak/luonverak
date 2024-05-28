@@ -238,7 +238,8 @@
 .left-content {
     width: 75%;
     height: 100%;
-    padding: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
 }
 .course{
     height: 259px;
