@@ -179,41 +179,8 @@
     height: 100%;
     display: flex;
     border-radius: 15px;
-    /* background-color: rgb(4, 4, 0); */
-    /* animation-name: slide;
-    position: relative;
-  text-align: center;
-  transition: transform 0.6s;
-  transform-style: preserve-3d;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  backface-visibility: hidden;
-  -moz-backface-visibility: hidden; */
 }
 
-/* .conten-3:focus {
-    outline: 0;
-}
-.conten-3:hover .conten-3-inner,
-.conten-3:focus .bg-conten-3{
-  transform: rotateY(180deg);
-}
-.bg-conten-3 {
-    background: linear-gradient(to left, #4364f7, #6fb1fc);
-    color: black;
-    z-index: 2;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .sub-conten-3 {
-    background: linear-gradient(to right, #4364f7, #6fb1fc);
-    color: white;
-    transform: rotateY(180deg);
-    z-index: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } */
 .conten-3 img {
     width: 100%;
     height: 100%;
@@ -223,19 +190,14 @@
 
 .reading {
     width: 80%;
-    background-color: aliceblue;
-    /* height: 1800px; */
     margin: auto;
-    /* padding: 10px; */
     display: flex;
     gap: 1rem;
-    /* justify-content: space-between; */
 }
 
 .reading-title p {
     font-size: 25px;
     font-weight: 600;
-    font-family: 'Noto Serif', serif;
 }
 
 .reading-head {
