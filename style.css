@@ -24,7 +24,9 @@
 
 .logo {
     width: 25%;
-    padding-left: 14%;
+    display: flex;
+    justify-content: end;
+    padding-right: 2%;
 }
 
 .logo img {
