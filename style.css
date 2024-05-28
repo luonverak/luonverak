@@ -11,7 +11,6 @@
 #header-line {
     height: 10px;
     width: 100%;
-    /* background-color: aqua; */
     background-image: linear-gradient(to right, rgb(43, 121, 247), rgb(253, 66, 66));
 
 }
@@ -22,9 +21,6 @@
     background-color: rgb(226, 234, 234);
     margin: auto;
     display: flex;
-    /* top: 0;
-    position: sticky;
-    z-index: 1; */
 }
 
 .logo {
