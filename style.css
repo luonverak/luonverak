@@ -246,6 +246,9 @@
     background-color: aqua;
     border-radius: 10px;
 }
+.course img{
+    width: 100%;
+}
 .right-content {
     width: 30%;
     height: 100%;
