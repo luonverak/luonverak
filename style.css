@@ -567,7 +567,9 @@ h3 {
     .carousel {
         display: flex;
     }
-
+    .reading{
+        width: 100%;
+    }
     .right-content {
         display: none;
     }
