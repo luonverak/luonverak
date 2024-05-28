@@ -242,8 +242,9 @@
     padding: 25px;
 }
 .course{
-    height: 360px;
+    height: 259px;
     border-radius: 10px;
+    width: 49.5%;
 }
 .course a{
     width: 100%;
