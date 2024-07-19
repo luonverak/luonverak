@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Verak</h1>
 <h3 align="center">A Full Stack Developer in Cambodia with software solutions technology company.</h3>
-<h3 align="left">My portfolio:</h3>
 <a href="https://luon-verak.vercel.app/" target="blank">My portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
