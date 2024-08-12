@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me
 Welcome I'm a Full Stack Developer in Cambodia with software solutions technology company.
 
 ## 🌐Socials
